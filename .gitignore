@@ -1,0 +1,4 @@
+*.log
+code/BarlowTwins/saver/*
+code/BYOL/saver/*
+code/MoCov2/saver/*
